@@ -48,3 +48,4 @@ docker-compose.override.yml
 # Database
 /mysql_data/
 data/
+
