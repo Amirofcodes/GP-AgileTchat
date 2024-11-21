@@ -49,5 +49,5 @@ docker-compose.override.yml
 /mysql_data/
 data/
 
-
-
+.aidigestignore
+codebase.md
